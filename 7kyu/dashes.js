@@ -1,4 +1,4 @@
-// Tasks
+// Task
 // Write a function insert_dash(num) / insertDash(num) / InsertDash(int num) that will insert dashes ('-') 
 // Don't count zero as an odd digit.
 
