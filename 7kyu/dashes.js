@@ -2,7 +2,7 @@
 // Write a function insert_dash(num) / insertDash(num) / InsertDash(int num) that will insert dashes ('-') 
 // Don't count zero as an odd digit
 
-// Note that the number will always be non-negative (>= 0).
+// Note that the number will always be non-negative (>= 0)
 
 
 // Examples:
