@@ -1,0 +1,18 @@
+//Imagine you are a software engineer for a company that keeps track of customer names in the array customersArray. The company’s codebase loops through this array to generate an annual report. The code was written by an untrained intern over 10 years ago, and it will crash the entire system if customersArray is found to contain any data of the number type!
+
+//Because you’re not using TypeScript, you need to write the function checkCustomersArray() to check that every element of customersArray is a string. For any element el that is not a string, this function should log an error message using the statement console.log(`Type error: ${el} should be a string!`).
+
+//Call the checkCustomersArray() function after you’ve defined it to see your messages print out.
+
+
+let customersArray = ['Custy Stomer', 'C. Oostomar', 'C.U.S. Tomer', 3432434, 'Custo Mer', 'Custopher Ustomer', 3432435, 'Kasti Yastimeur'];
+
+//Write Your Code here:
+
+function checkCustomersArray(){
+  customersArray.forEach(el => {
+    if (typeof el != 'string')
+    {console.log (`Type error: ${el} should be a string!`) }
+  })
+}
+checkCustomersArray()
