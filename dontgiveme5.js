@@ -1,4 +1,4 @@
-// Task:
+// Task
 // Don't give me five!
 
 // In this kata you get the start number and the end number of a region 
