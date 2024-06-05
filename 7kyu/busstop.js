@@ -24,7 +24,8 @@
 // (number([[0,0]]),0);
 
 //psedudo code
-//
+//Use reduce, first declare the variables, remaining, on off, add remaining and odd and substract off. Start the
+//count on 0
 
 
 
